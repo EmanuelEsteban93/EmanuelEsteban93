@@ -11,31 +11,9 @@
 
   </head>
 <body>
-      <nav class="navbar navbar-expand-md navbar-dark">
-        <a class="navbar-brand logo" href="../index.html"><img src="../img/logo1.png" alt="Logo" style="width:150px;"></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="collapsibleNavbar">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="../index.html">Inicio</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="servicios.html">Servicios</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="turnos.html">Turnos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Nosotros</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contacto.html">Contacto</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+  <banner>
+    <img src="https://www.freepik.com/free-vector/view-night-city-with-neon-glow-through-window_151054176.htm#fromView=search&page=2&position=23&uuid=d5ca3a3f-56e9-4a24-876d-c84c7f5ade53" alt="banner lofy room"/>
+  </banner>
 </body>
 
 </html>
